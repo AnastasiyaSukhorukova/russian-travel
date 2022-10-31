@@ -12,5 +12,38 @@
 @import url('../blocks/lead/lead.css');
 @import url('../blocks/lead/__title/lead__title.css');
 @import url('../blocks/lead/__subtitle/lead__subtitle.css');
+@import url('../blocks/lead/__image-vector/lead__image-vector.css');
+@import url('../blocks/lead/__image/_vector/lead__image_vector_position.css');
 @import url('../blocks/lead/__image/lead__image.css');
 @import url('../blocks/lead/__caption/lead__caption.css');
+
+@import url('../blocks/lead/__ellipse/lead__ellipse.css');
+@import url('../blocks/lead/__ellipse/_images/lead__ellipse_images_pskov.css');
+@import url('../blocks/lead/__ellipse/_images/lead__ellipse_images_velikinovgorod.css');
+@import url('../blocks/lead/__ellipse/_images/lead__ellipse_images_tver.css');
+@import url('../blocks/lead/__ellipse/_images/lead__ellipse_images_yaroslavl.css');
+@import url('../blocks/lead/__ellipse/_images/lead__ellipse_images_manturovo.css');
+@import url('../blocks/lead/__ellipse/_images/lead__ellipse_images_kotelnich-1.css');
+@import url('../blocks/lead/__ellipse/_images/lead__ellipse_images_glazov.css');
+@import url('../blocks/lead/__ellipse/_images/lead__ellipse_images_perm.css');
+@import url('../blocks/lead/__ellipse/_images/lead__ellipse_images_tumen.css');
+@import url('../blocks/lead/__ellipse/_images/lead__ellipse_images_omsk.css');
+@import url('../blocks/lead/__ellipse/_images/lead__ellipse_images_krasnoyarsk.css');
+@import url('../blocks/lead/__ellipse/_images/lead__ellipse_images_ulan-ude.css');
+
+@import url('../blocks/lead/__city-list/lead__city-list.css');
+@import url('../blocks/lead/__city-list/_images/lead__city-list_images_pskov.css');
+@import url('../blocks/lead/__city-list/_images/lead__city-list_images_velikinovgorod.css');
+@import url('../blocks/lead/__city-list/_images/lead__city-list_images_tver.css');
+@import url('../blocks/lead/__city-list/_images/lead__city-list_images_yaroslavl.css');
+@import url('../blocks/lead/__city-list/_images/lead__city-list_images_manturovo.css');
+@import url('../blocks/lead/__city-list/_images/lead__city-list_images_kotelnich-1.css');
+@import url('../blocks/lead/__city-list/_images/lead__city-list_images_glazov.css');
+@import url('../blocks/lead/__city-list/_images/lead__city-list_images_perm.css');
+@import url('../blocks/lead/__city-list/_images/lead__city-list_images_tumen.css');
+@import url('../blocks/lead/__city-list/_images/lead__city-list_images_omsk.css');
+@import url('../blocks/lead/__city-list/_images/lead__city-list_images_krasnoyarsk.css');
+@import url('../blocks/lead/__city-list/_images/lead__city-list_images_ulan-ude.css');
+
+@import url('../blocks/list-style/list-style.css');
+

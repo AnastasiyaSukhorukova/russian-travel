@@ -1,4 +1,4 @@
 .lead__image {
-  min-width: 984px;
-  max-height: 615px;
+  background-image: url('../../../images/Vector.png');
+  background-repeat: no-repeat;
 }

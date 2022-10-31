@@ -1,0 +1,10 @@
+.lead__ellipse {
+  width: 6.99px;
+  height: 8.14px;
+  background-image: url('../../../images/Ellipse.png');
+  color:#FFF;
+}
+
+/*.lead__ellipse:hover {
+  color: blue;
+}*/
