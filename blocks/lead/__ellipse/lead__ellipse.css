@@ -2,9 +2,10 @@
   width: 6.99px;
   height: 8.14px;
   background-image: url('../../../images/Ellipse.png');
+  border-radius: 50%;
   color:#FFF;
 }
 
 /*.lead__ellipse:hover {
-  color: blue;
+  background-color: blue;
 }*/

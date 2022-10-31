@@ -1,0 +1,10 @@
+.intro__list-number {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  color: #FFF;
+  font-size: 12px;
+  line-height: 18px;
+  font-style: bold;
+  font-weight: 400;
+}

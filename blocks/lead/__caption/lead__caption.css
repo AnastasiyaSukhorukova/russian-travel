@@ -1,14 +1,14 @@
 .lead__caption {
   margin: 8px 0 0 0;
   padding: 0;
-  color: #FFFFFF;
+  color: #FFF;
   font-size: 10px;
   line-height: 14px;
   font-style: normal;
   font-weight: 400;
   text-transform: uppercase;
   text-align: left;
-  outline: 1px solid red;
+  /*outline: 1px solid red;*/
   align-self: flex-start;
 }
 
