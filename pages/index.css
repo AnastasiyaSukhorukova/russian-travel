@@ -40,6 +40,6 @@
 @import url('../blocks/place/__paragraph-position_top/place__paragraph-position_top.css');
 
 @import url('../blocks/cover/cover.css');
-@import url('../blocks/cover/__title/');
+@import url('../blocks/cover/__title/cover__title.css');
 @import url('../blocks/cover/__subtitle/cover__subtitle.css');
 @import url('../blocks/cover/__item/cover__item.css');

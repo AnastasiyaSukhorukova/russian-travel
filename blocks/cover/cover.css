@@ -1,11 +1,15 @@
 .cover {
-    text-decoration: none;
+    padding: 0 48px 92px;
     color: #FFF;
-    max-width: 1184px;
-    max-height: 740px;
+    width: 1184px;
+    height: 740px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    outline: 1px solid red;
+}
+
+.cover:hover {
+    background-color: #2A2C2F;
+    opacity: 0.3;
 }
