@@ -1,4 +1,15 @@
 .place {
     display: grid;
-    grid-template-columns: repeat(2, 50%);
+    grid-template-rows: minmax(min-content, max-content) minmax(110px 1fr);
+    grid-template-columns: minmax(460px 1fr) minmax(min-content, max-content);
+    grid-template-areas: 
+    'place__title place__website'
+    'place__image place__paragraph_position_top'
+    'place__image place__paragraph_position_bottom'
+    'place__image place__paragraph_position_bottom';
+    /*должно быть 2 строки*/
+    max-width: 984px;
+    max-height: 660px;
+    column-gap: 40px;
+    outline: 1px solid red;
 }

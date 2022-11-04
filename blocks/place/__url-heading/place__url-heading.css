@@ -1,5 +1,5 @@
 .place__url-heading {
-    margin: 0 0 12px;
+    margin: 40px 0 12px;
     padding: 0;
     color: #AAA;
     font-size: 12px;
@@ -9,8 +9,3 @@
     text-align: left;
     max-width: 456px;
 }
-
-/*.place__url-heading:nth-child(4) {
-    padding-top: 76px;
-}
-не работает т.к браузер видит каждый элемент как первый, нужно убрать обертки и подумать как сделать гридом)*/

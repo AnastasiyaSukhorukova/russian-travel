@@ -1,5 +1,8 @@
 .place__website {
-    margin: 110px 176px 48px 0;
+    margin: 0;
     padding: 0;
+    grid-area: place__website;
+    max-height: 46px;
+    max-width: 456px;
 }
 

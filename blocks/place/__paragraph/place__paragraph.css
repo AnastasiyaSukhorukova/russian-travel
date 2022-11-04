@@ -6,6 +6,16 @@
     line-height: 29.34px;
     font-style: normal;
     font-weight: 400;
-    text-align: left;
     max-width: 484px;
+    max-height: 460px;
+}
+
+.place__paragraph:last-of-type {
+    margin-bottom: 0;
+}
+
+@media screen and (max-width: 780px) {
+    .place__paragraph {
+        font-size: 16px;
+    }
 }
