@@ -4,10 +4,7 @@
     grid-template-columns: minmax(460px 1fr) minmax(min-content, max-content);
     grid-template-areas: 
     'place__title place__website'
-    'place__image place__paragraph_position_top'
-    'place__image place__paragraph_position_bottom'
-    'place__image place__paragraph_position_bottom';
-    /*должно быть 2 строки*/
+    'place__image place__paragraph';
     max-width: 984px;
     max-height: 660px;
     column-gap: 40px;

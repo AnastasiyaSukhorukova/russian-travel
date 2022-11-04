@@ -36,5 +36,10 @@
 @import url('../blocks/place/__url-heading/place__url-heading.css');
 @import url('../blocks/place/__link/place__link.css');
 @import url('../blocks/place/__paragraph/place__paragraph.css');
-@import url('../blocks/place/__paragraph/_position/place__paragraph_position_top.css');
-@import url('../blocks/place/__paragraph/_position/place__paragraph_position_bottom.css');
+@import url('../blocks/place/__paragraph-position_bottom/place__paragraph-position_bottom.css');
+@import url('../blocks/place/__paragraph-position_top/place__paragraph-position_top.css');
+
+@import url('../blocks/cover/cover.css');
+@import url('../blocks/cover/__title/');
+@import url('../blocks/cover/__subtitle/cover__subtitle.css');
+@import url('../blocks/cover/__item/cover__item.css');

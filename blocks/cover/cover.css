@@ -1,0 +1,11 @@
+.cover {
+    text-decoration: none;
+    color: #FFF;
+    max-width: 1184px;
+    max-height: 740px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    outline: 1px solid red;
+}
