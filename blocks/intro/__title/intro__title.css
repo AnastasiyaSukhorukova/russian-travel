@@ -2,6 +2,7 @@
   /*outline: 1px solid fuchsia;*/
   margin: 0;
   padding: 114px 0 40px;
+  box-sizing: border-box;
   color: #FFF;
   font-size: 54px;
   line-height: 58px;
@@ -9,4 +10,5 @@
   font-weight: 900;
   text-align: left;
   max-width: 690px;
+
 }

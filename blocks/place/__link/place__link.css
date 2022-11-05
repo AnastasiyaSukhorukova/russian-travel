@@ -10,3 +10,7 @@
     text-decoration: underline;
     max-width: 456px;
 }
+
+.place__link:hover {
+    opacity: .8;
+}

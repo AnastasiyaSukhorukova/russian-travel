@@ -3,4 +3,5 @@
     display: grid;
     gap: 16px;
     grid-template-columns: repeat(4, 25%);
+    box-sizing: border-box;
 }

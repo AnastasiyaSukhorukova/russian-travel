@@ -1,3 +1,4 @@
 .places {
     padding: 0 148px 92px;
+    box-sizing: border-box;
 }

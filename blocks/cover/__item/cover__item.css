@@ -1,6 +1,0 @@
-.cover__item {
-    background: no-repeat center url('../../../images/cover-trains.jpg');
-    background-size: cover;
-    max-width: 100%;
-    z-index: 1;
-}

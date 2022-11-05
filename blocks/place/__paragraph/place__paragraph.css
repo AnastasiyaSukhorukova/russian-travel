@@ -1,5 +1,5 @@
 .place__paragraph {
-    margin: 0 0 26px;
+    margin: 0;
     padding: 0;
     color: #FFF;
     font-size: 18px;
@@ -10,8 +10,8 @@
     max-height: 460px;
 }
 
-.place__paragraph:last-of-type {
-    margin-bottom: 0;
+.place__paragraph:not(:last-child) {
+    margin-bottom: 26px;
 }
 
 @media screen and (max-width: 780px) {
