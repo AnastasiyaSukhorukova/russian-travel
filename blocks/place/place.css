@@ -8,6 +8,7 @@
     max-width: 984px;
     max-height: 660px;
     column-gap: 40px;
+    box-sizing: border-box;
 }
 
 @media screen and (max-width: 1024px) {
