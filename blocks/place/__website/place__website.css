@@ -11,7 +11,14 @@
 
 @media screen and (max-width: 768px) {
     .place__website {
-        width: 452px;
+        width: 352px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .place__website {
+        width: 288px;
+        margin: 0 16px 32px;
     }
 }
 

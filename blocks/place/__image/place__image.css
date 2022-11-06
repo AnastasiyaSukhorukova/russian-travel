@@ -1,6 +1,7 @@
 .place__image {
     width: 460px;
     height: 460px;
+    display: block;
     grid-area: place__image;
 }
 
@@ -22,5 +23,6 @@
     .place__image {
         width: 320px;
         height: 320px;
+        padding: 0;
     }
 }

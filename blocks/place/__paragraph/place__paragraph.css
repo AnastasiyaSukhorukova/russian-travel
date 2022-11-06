@@ -6,7 +6,7 @@
     line-height: 163%;
     font-style: normal;
     width: 484px;
-    max-height: 460px;
+    /*max-height: 460px;*/
     font-weight: 400;
     white-space: pre-line;
     grid-area: place__paragraph;
@@ -18,7 +18,7 @@
 
 @media screen and (max-width: 1024px) {
     .place__paragraph {
-        max-width: 456px;
+        width: 456px;
         white-space: normal;
     }
 }
@@ -38,5 +38,6 @@
     .place__paragraph {
         width: 288px;
         margin-top: 32px;
+        padding: 0 16px 0;
     }
 }
