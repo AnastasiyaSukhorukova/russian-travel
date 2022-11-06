@@ -1,5 +1,22 @@
 .intro {
-  /*outline: 1px solid blue;*/
   padding-left: 148px;
   box-sizing: border-box;
+}
+
+@media screen and (max-width: 1024px) {
+  .intro {
+    padding-left: 48px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .intro {
+    padding-left: 24px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .intro {
+    padding-left: 16px;
+  }
 }

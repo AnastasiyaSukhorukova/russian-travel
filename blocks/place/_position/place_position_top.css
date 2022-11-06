@@ -1,8 +1,16 @@
 .place_position_top {
-    margin: 80px 0 80px;
+    margin-top: 80px;
     padding: 0;
 }
 
-.place_position_top:last-of-type {
-    margin: 0;
+@media screen and (max-width: 768px) {
+    .place_position_top {
+        margin-top: 72px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .place_position_top {
+        margin-top: 50px;
+    }
 }
