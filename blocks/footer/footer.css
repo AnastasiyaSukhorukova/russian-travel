@@ -8,20 +8,20 @@
     align-items: center;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1152px) {
     .footer {
         max-width: 928px;
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 896px) {
     .footer {
         max-width: 768px;
         padding: 0 24px 24px;
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 544px) {
     .footer {
         padding: 0 118px 0 16px;
         flex-direction: column;
