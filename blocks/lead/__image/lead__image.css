@@ -10,15 +10,13 @@
 
 @media screen and (max-width: 1152px) {
   .lead__image {
-    width: 928px;
-    max-height: 580px;
+      width: 928px;
+      max-height: 580px;
   }
 }
 
 @media screen and (max-width: 896px) {
   .lead__image {
-    width: 100%;
+      width: 100%;
   }
 }
-
-

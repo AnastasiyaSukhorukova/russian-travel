@@ -1,9 +1,8 @@
 .intro__list {
-  /*outline: 1px solid fuchsia;*/
   list-style: none;
   margin: 0;
   padding: 0;
-  color: #FFF;
+  color: #fff;
   font-size: 12px;
   line-height: 18px;
   font-style: normal;

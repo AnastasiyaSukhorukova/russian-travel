@@ -11,18 +11,18 @@
 
 @media screen and (max-width: 1152px) {
   .lead {
-    padding: 0 48px 92px;
+      padding: 0 48px 92px;
   }
 }
 
 @media screen and (max-width: 896px) {
   .lead {
-    padding: 0 0 88px;
+      padding: 0 0 88px;
   }
 }
 
 @media screen and (max-width: 544px) {
   .lead {
-    padding: 0 0 64px;
+      padding: 0 0 64px;
   }
 }
