@@ -5,9 +5,6 @@
   line-height: 28px;
   font-style: normal;
   font-weight: 400;
-  display: flex;
-  align-items: flex-end;
-  gap: 18px;
   text-decoration: none;
 }
 
@@ -16,7 +13,7 @@
 }
 
 @media screen and (max-width: 544px) {
-  .header__lang-link {
+  .header__link {
     font-size: 18px;
     line-height: 20px;
   }
