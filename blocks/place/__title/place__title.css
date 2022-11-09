@@ -9,7 +9,6 @@
   text-align: left;
   max-width: 460px;
   width: 100%;
-  white-space: pre-line;
   grid-area: place__title;
 }
 
@@ -33,6 +32,5 @@
       max-width: 288px;
       font-size: 32px;
       line-height: 35px;
-      white-space: normal;
   }
 }

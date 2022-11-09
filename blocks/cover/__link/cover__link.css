@@ -2,7 +2,7 @@
   min-height: 740px;
   padding: 0;
   box-sizing: border-box;
-  background: no-repeat url("../../../images/cover-trains.jpg");
+  background: no-repeat url('../../../images/cover-trains.jpg');
   background-size: cover;
   background-position: center;
   color: #fff;
@@ -16,7 +16,7 @@
 }
 
 .cover__link::before {
-  content: " ";
+  content: ' ';
   position: absolute;
   top: 0;
   right: 0;

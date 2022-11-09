@@ -2,8 +2,8 @@
   margin: 0 auto;
   display: grid;
   grid-template-areas:
-      "place__title place__website"
-      "place__image place__paragraph";
+      'place__title place__website'
+      'place__image place__paragraph';
   max-width: 984px;
   column-gap: 40px;
   box-sizing: border-box;
@@ -28,9 +28,9 @@
       max-width: 320px;
       column-gap: 32px;
       grid-template-areas:
-          "place__title"
-          "place__website"
-          "place__image"
-          "place__paragraph";
+          'place__title'
+          'place__website'
+          'place__image'
+          'place__paragraph';
   }
 }
