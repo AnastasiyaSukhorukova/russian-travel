@@ -1,5 +1,6 @@
 .header {
   padding: 28px 48px 0;
+  /*Верхний отступ у header 28px вроде все ок*/
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
